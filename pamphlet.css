@@ -1,13 +1,14 @@
 body {
   background: white;
   font-family: arial, sans-serif;
-  background-color: #3FA9E2;
+  background-color: #4a5d68;
   font-size: 0.75em;
-}
-.cart {
+  color: aliceblue;
+  }
+ .cart {
  
   width: 50%;
-  background-color: #CDD93F;
+  background-color: #6e7248;
   top: 0em;
   right: 0em;
   margin-right: 1em;
@@ -19,7 +20,7 @@ body {
 .cartTotal {
   position: fixed;
   width: 20%;
-  background-color: #CDD93F;
+  background-color: #6e723c;
   top: 0em;
   right: 0em;
   margin-right: 1em;
@@ -88,7 +89,7 @@ body {
 }
 
 .small img {
-  width: 4em;
+  width: 5em;
 }
 
 .medium img {
@@ -97,7 +98,7 @@ body {
 
 
 .large img {
-  width: 7em;
+  width: 5em;
   
 }
 .footer {
